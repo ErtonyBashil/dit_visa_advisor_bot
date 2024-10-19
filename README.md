@@ -1,4 +1,4 @@
-### Mise en place d'un chatbot sous le systeme RAG
+## Mise en place d'un chatbot sous le systeme RAG
 Chatbot pour accompagner les étudiants étrangers à la carte de séjour au Sénégal
 <hr>
 
@@ -8,7 +8,7 @@ un chatbot au service des étrangers, un outil intéractif dynamique pour humani
 carte de séjour au Sénegal.
 
 
-# Archictecture
+### Archictecture
 
 ![Architecture RAG](images/rag_architecture.jpg)
 
@@ -29,8 +29,6 @@ de formation. La génération augmentée de récupération combine des ressource
 
 
 ### Fonctionalité
-
-
 
 1. Prérequis
 
