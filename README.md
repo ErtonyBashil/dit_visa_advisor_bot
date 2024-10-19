@@ -1,6 +1,6 @@
 ## Mise en place d'un chatbot sous le systeme RAG
 Chatbot pour accompagner les étudiants étrangers à la carte de séjour au Sénégal
-<hr>
+
 
 ### Aprecu
 Ce projet consiste à mettre en place un assistant virtuel pour aider les étrangers, particuliement les étudiants dans leur démarche pour obtenir la carte de séjour.
